@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">agenda</string>
+    <string name="title">My Contacts</string>
 </resources>
